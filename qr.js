@@ -16,16 +16,17 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-┌───⭓『
-❒ *WASI-MD*
-❒ _NOW DEPLOY IT_
-└────────────⭓
-┌───⭓
-❒  • Chat with owner •
-❒ *GitHub:* __https://github.com/WASI-MD_
-❒ *Author:* _wa.me/923192173398_
-❒ *YT:* _https://youtube.com/@wasitech10_
-└────────────⭓
+╔════◇
+║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+╚════════════════════════╝
+╔═════◇
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *Ytube:* _youtube.com/@princetech11_
+║❒ *Owner:* _t.me/faraday_11_
+║❒ *Repo:* _https://github.com/Mayelprince/PRINCE-MDXI_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vakd0RY35fLr1MUiwO3O_
+║❒ *Telechannel:* _https://t.me/princetechbot_
+╚════════════════════════╝
 `
 
 
