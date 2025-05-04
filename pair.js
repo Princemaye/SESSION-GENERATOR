@@ -62,7 +62,7 @@ router.get('/', async (req, res) => {
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@princetech11_
+║❒ *How to deploy:* _youtube.com/@princetech11_
 ║❒ *Owner:* _t.me/faraday_11_
 ║❒ *Repo:* _https://github.com/Mayelprince/PRINCE-MDXI_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vakd0RY35fLr1MUiwO3O_
